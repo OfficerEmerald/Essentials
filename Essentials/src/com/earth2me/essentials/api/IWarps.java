@@ -65,4 +65,6 @@ public interface IWarps extends IConf
 	 * @throws InvalidNameException - When the file is not found
 	 */
 	File getWarpFile(String name) throws net.ess3.api.InvalidNameException;
+	
+	return name;
 }
